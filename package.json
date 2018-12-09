@@ -1,0 +1,41 @@
+{
+  "name": "graphql-schema-stitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilvaathibanpb/graphql-schema-stitch.git"
+  },
+  "author": "Vilva Athiban P B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilvaathibanpb/graphql-schema-stitch/issues"
+  },
+  "keywords": [
+    "graphql",
+    "graphql-schema-stitch",
+    "graphql-schema-stitching",
+    "graphql-schema",
+    "graphql-microservices"
+  ],
+  "dependencies": {
+    "apollo-link": "^1.2.4",
+    "apollo-link-context": "^1.0.9",
+    "apollo-link-http": "^1.5.5",
+    "apollo-server": "^2.1.0",
+    "apollo-server-express": "^2.2.2",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "graphql-playground-middleware-express": "^1.7.8",
+    "graphql-tools": "^4.0.3",
+    "node-fetch": "^2.2.0"
+  },
+  "homepage": "https://github.com/vilvaathibanpb/graphql-schema-stitch#readme"
+}
